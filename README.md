@@ -1,4 +1,4 @@
-![Front end developer](https://github.com/MangelSP/MangelSPRead/blob/main/banner.png)
+![Front end developer](https://github.com/Daniels-not/Daniels-not/blob/main/banner.png)
 
 ### Hi there 👋, I am Miguel Angel Sanchez Peralta
 #### Senior Software Engineer
