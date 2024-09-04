@@ -1,9 +1,9 @@
 ![Front end developer](https://github.com/Daniels-not/Daniels-not/blob/main/banner.png)
 
 ### Hi there 👋, I am Miguel Angel Sanchez Peralta  
-#### Senior Software Engineer
+#### Software Engineer
 
-I am Miguel Angel Sanchez Peralta, also known as MangelDarks, a software engineer who believes in simplicity. I am passionate about conceptualizing, developing, and deploying ideas on the internet. I am an advocate for higher education advancement, and when I set my goals, I commit to achieving them.
+I am Miguel Angel Sanchez Peralta, also known as MangelDev, a software engineer who believes in simplicity. I am passionate about conceptualizing, developing, and deploying ideas on the internet. I am an advocate for higher education advancement, and when I set my goals, I commit to achieving them.
 
 [Check out my portfolio](#)
 
